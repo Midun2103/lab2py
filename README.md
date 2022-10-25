@@ -23,7 +23,7 @@ print("saya sedang belajar python")
 ```
 
 Berikut hasil dari kode diatas
- ![hasil1](img\hasil1.jpg)
+ ![hasil1](img/hasil1.jpg)
 
 ## latihan 2
 membuat latihan 2
@@ -45,9 +45,8 @@ print("hasil penjumlahan a + b = ", c)
 
 ```
 
-
 berikut hasil dari code diatas
- ![hasil2](D:\lab2py\img\hasil2.jpg)
+ ![hasil2](img/hasil2.jpg)
 
 ## latihan 3
 membuat latihan 3
@@ -81,5 +80,5 @@ print("hasil penjumlahan {0} & {1} = %d".format(a, b ) % (a*b))
 
 
 berikut hasil dari code diatas
- ![hasil3](img\hasil3.jpg)
+ ![hasil3](img/hasil3.jpg)
  
